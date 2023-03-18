@@ -16,6 +16,5 @@
 <hr color="#ccc" size="1" width="100%">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-88%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Others-12%25-808080?style=flat-square" alt="Other">
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
