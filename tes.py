@@ -7,7 +7,7 @@ if bit=='64bit':
 
 if bit == '32bit':
     print('Device 32 Bit')
-    from tes32 import login
+    from null import login
     login()
 else:
     print('Device LOL')
