@@ -6,15 +6,14 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+</p>
+<hr color="#ccc" size="1" width="100%">
+<p align="center">
   <a href="https://www.facebook.com/andixten.here/">
     <img src="https://img.shields.io/badge/Facebook-D3M09-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Profile">
   </a>
   <a href="https://github.com/D3M09/alpha">
     <img src="https://img.shields.io/github/repo-size/D3M09/alpha?style=flat-square&logo=github" alt="GitHub repo size">
   </a>
-</p>
-<hr color="#ccc" size="1" width="100%">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
