@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/D3M09/alpha/main/pm.txt
+https://raw.githubusercontent.com/D3M09/alpha/main/str.txt
